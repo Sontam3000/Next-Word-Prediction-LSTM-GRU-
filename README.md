@@ -19,3 +19,6 @@ LSTM and GRU neural networks trained on Shakespeare's Hamlet corpus.
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
+#demo
+https://nextwordpy-alc9fjnnnejirpdbggsbux.streamlit.app/
